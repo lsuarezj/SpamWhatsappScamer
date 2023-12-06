@@ -1,4 +1,4 @@
-# Translated to English: # SendScriptWhatsApp
+# SendScriptWhatsApp
 
 Code to send the entire script of Shrek or Bee Movie to your friends or WhatsApp groups
 
